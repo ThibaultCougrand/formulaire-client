@@ -1,0 +1,49 @@
+{
+    "client": [
+        {
+            "affiche": "--Clients--",
+            "nom": "",
+            "prenom": "",
+            "âge": "",
+            "profession": "",
+            "email": "",
+            "telephone": ""
+        },
+        {
+            "affiche": "thibault",
+            "nom": "cougrand",
+            "prenom": "thibault",
+            "âge": "25 ans",
+            "profession": "dev",
+            "email": "thib@gmail.com",
+            "telephone": "0601010101"
+        },
+        {
+            "affiche": "kevin",
+            "nom": "san-martino",
+            "prenom": "kevin",
+            "âge": "69 ans",
+            "profession": "patissier",
+            "email": "kékédu34@gmail.com",
+            "telephone": "0602020202"
+        },
+        {
+            "affiche": "romain",
+            "nom": "van-damned",
+            "prenom": "romain",
+            "âge": "?",
+            "profession": "cuisto",
+            "email": "JCVD@gmail.com",
+            "telephone": "0603030303"
+        },
+        {
+            "affiche": "nicolas",
+            "nom": "perez",
+            "prenom": "nicolas",
+            "âge": "24 ans",
+            "profession": "millitairetamere",
+            "email": "nico@gmail.com",
+            "telephone": "0604040404"
+        }
+    ]
+}

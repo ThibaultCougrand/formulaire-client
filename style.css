@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    position: relative;
+    padding: .6em;
+    margin-bottom: 10vh;
+    text-align: center;
+    color: white;
+    background-color: purple;
+}
+
+h1::before {
+    content: "";
+    position: absolute;
+    top: 100%;
+    right: 0;
+    border-top: 80px solid purple;
+    border-right: 0px solid transparent;
+    border-left: 100vw solid transparent;
+}
+
+.liste {
+    z-index: 10;
+}
